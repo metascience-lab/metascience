@@ -90,13 +90,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/MetascienceLab"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/chaoqun.ni.5"
-  # [[params.social]]
-  #     icon      = "instagram" # icon name without the 'fa-'
-  #     icon_pack = "fab"
-  #     url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://orcid.org/0000-0002-4130-7602"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -121,31 +117,23 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/MetascienceLab"
+      url       = "https://github.com/orgs/MetascienceLab/people/bihutchins"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/chaoqun.ni.5"
-  # [[params.social]]
-  #     icon      = "instagram" # icon name without the 'fa-'
-  #     icon_pack = "fab"
-  #     url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://orcid.org/0000-0001-7657-552X"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/ChaoqunNi"
+      url       = "https://twitter.com/HutchinsBI"
   [[params.social]]
       icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://www.researchgate.net/profile/Chaoqun-Ni"
+      url       = "https://www.researchgate.net/profile/Bruce-Hutchins"
   [[params.social]]
       icon      = "google-scholar-square" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=aSuMS0oAAAAJ&hl=en"
-  # [[params.social]]
-  #     icon      = "rss" # icon name without the 'fa-'
-  #     icon_pack = "fas"
-  #     url       = "/blog/index.xml"
+      url       = "https://scholar.google.com/citations?user=JDnuProAAAAJ&hl=zh-CN&oi=sra"
 
 [taxonomies]
   category = "categories"
