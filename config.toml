@@ -2,14 +2,13 @@ baseURL = "http://www.metascience-lab.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Meta-Science Research Lab"
-author = "Ginger"
 copyright = "metascience-lab"
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 4
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -85,6 +84,40 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/MetascienceLab"
+  [[params.social]]
+      icon      = "facebook-square" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.facebook.com/chaoqun.ni.5"
+  # [[params.social]]
+  #     icon      = "instagram" # icon name without the 'fa-'
+  #     icon_pack = "fab"
+  #     url       = "https://www.instagram.com/explore/tags/apero/"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/ChaoqunNi"
+  [[params.social]]
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://www.researchgate.net/profile/Chaoqun-Ni"
+  [[params.social]]
+      icon      = "google-scholar-square" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=aSuMS0oAAAAJ&hl=en"
+      
+      
+  [[params.social]]
+      icon      = ""
+      icon_pack = ""
+  [[params.social]]
+      icon      = ""
+      icon_pack = ""
+
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -146,11 +179,6 @@ enableEmoji = true
     title = "news"
     url = "/news/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
     
   # Configure footer  
   # [[menu.footer]]
