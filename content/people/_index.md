@@ -1,5 +1,5 @@
 ---
-title: "Selected Publications"
+title: "People"
 subtitle: "A collection, minus the blog."
 
 show_post_thumbnail: true
@@ -13,7 +13,7 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Selected Publications"
+    title: "People"
     # author: Ginger
     # description: |
     #   Sometimes you want a souped-up series- a bundle of related pages 

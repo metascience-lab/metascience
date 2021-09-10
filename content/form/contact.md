@@ -1,8 +1,7 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+# date: "2019-02-25T13:38:41-06:00"
+description: Please feel free to send message to us with any purpose if you are interested.<br><br>We are also looking for highly-motivated Ph.D. students to work on cutting-edge problems in scholarly data mining & analytics, and data-driven science of science. Students with background in **NLP**, **machine learning**, **statististics** and **information science** are welcome to apply.
+
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right

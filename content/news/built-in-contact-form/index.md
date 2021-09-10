@@ -8,7 +8,7 @@ excerpt: This theme has a form-to-email feature built in, thanks to the simple F
   integration. All you need to activate the form is a valid recipient email address
   saved in the form front matter.
 layout: single
-subtitle: Form to email feature powered by Formspree
+subtitle: Meta-Science Lab # Form to email feature powered by Formspree
 tags:
 - hugo-site
 title: Built-in Contact Form
