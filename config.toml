@@ -123,13 +123,13 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Publications"
-    title = "Publications"
-    url = "/publications/"
+    title = "collection"
+    url = "/collection/"
     weight = 2
   [[menu.header]]
     name = "Projects"
@@ -138,13 +138,13 @@ enableEmoji = true
     weight = 3
   [[menu.header]]
     name = "People"
-    title = "People"# talk
+    title = "People"
     url = "/people/"
     weight = 4
   [[menu.header]]
     name = "News"
-    title = "blog" #blog
-    url = "/blog/"
+    title = "news"
+    url = "/news/"
     weight = 5
   [[menu.header]]
     name = "Elements"
