@@ -32,7 +32,7 @@ enableEmoji = true
   description = "The official website for metascience lab"
   favicon = "/img/MRL.png"
   logo = "/img/MRL.png"
-  mainSections = ["publications", "projects", "people","news"]
+  mainSections = ["publications", "projects", "people"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -174,11 +174,6 @@ enableEmoji = true
     title = "People"
     url = "/people/"
     weight = 4
-  [[menu.header]]
-    name = "News"
-    title = "news"
-    url = "/news/"
-    weight = 5
     
   # Configure footer  
   # [[menu.footer]]
