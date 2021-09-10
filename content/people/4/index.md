@@ -1,6 +1,8 @@
 ---
 draft: false
 featured: true
+date: 2017-01-01
+show_post_time: false
 layout: single
 links:
 - icon: paperclip

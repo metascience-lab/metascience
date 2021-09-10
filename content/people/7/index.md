@@ -2,6 +2,8 @@
 draft: false
 featured: true
 layout: single
+date: 2015-01-01
+show_post_time: false
 links:
 - icon: paperclip
   icon_pack: fas
