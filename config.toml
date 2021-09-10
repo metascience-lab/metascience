@@ -113,6 +113,18 @@ enableEmoji = true
   [[params.social]]
       icon      = ""
       icon_pack = ""
+  [[params.social]]
+      icon      = ""
+      icon_pack = ""
+  [[params.social]]
+      icon      = ""
+      icon_pack = ""
+  [[params.social]]
+      icon      = ""
+      icon_pack = ""
+  [[params.social]]
+      icon      = ""
+      icon_pack = ""
 
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
