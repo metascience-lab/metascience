@@ -1,26 +1,17 @@
 ---
-title: "Bakeoff"
-subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
-date: 2019-07-01
-author: "Eric Anderson"
-draft: false
-tags:
-  - hugo-site
+author: Eric Anderson
 categories:
-  - Theme Features
-  - R
-  - package
+- Theme Features
+date: "2019-07-01"
+draft: false
+excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
+  integration. All you need to activate the form is a valid recipient email address
+  saved in the form front matter.
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+subtitle: Form to email feature powered by Formspree
+tags:
+- hugo-site
+title: Built-in Contact Form
 ---
 
 ![Formspree Logo](formspree-logo.png)

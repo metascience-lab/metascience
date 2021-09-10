@@ -128,8 +128,8 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Publications"
-    title = "collection"
-    url = "/collection/"
+    title = "publications"
+    url = "/publications/"
     weight = 2
   [[menu.header]]
     name = "Projects"
