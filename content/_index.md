@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: at the iSchool of UW-Madison. 
 text_align_left: true
-title: Meta-Science Research Lab
+title: MetaScience Research Lab
 type: home
 ---
 

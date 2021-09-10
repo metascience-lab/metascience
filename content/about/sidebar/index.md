@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Meta-Science Lab"
+author: "MetaScience Lab"
 role: "@ UW-Madison"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config

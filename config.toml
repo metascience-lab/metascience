@@ -1,7 +1,7 @@
 baseURL = "http://www.metascience-lab.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Meta-Science Research Lab"
+title = "MetaScience Research Lab"
 copyright = "metascience-lab"
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus

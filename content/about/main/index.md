@@ -11,7 +11,7 @@ intro: |
   I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Welcome to our Meta-Science Research Lab!
+  <i class="fas fa-glass-cheers pr2"></i>Welcome to our MetaScience Research Lab!
 ---
 
 ** index doesn't contain a body, just front matter above.
