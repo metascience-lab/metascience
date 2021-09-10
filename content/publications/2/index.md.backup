@@ -1,0 +1,25 @@
+---
+author:  B. Ian Hutchins
+date: "2021-07-15"
+# date_end: "2021-01-13"
+draft: false
+# event: Science Advances
+# event_url: https://www.science.org/doi/10.1126/sciadv.abe4639
+# excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify.
+featured: true
+layout: single
+links:
+- icon: paperclip
+  icon_pack: fas
+  name: Science Advances
+  url: https://direct.mit.edu/qss/article/2/2/433/102175/A-tipping-point-for-open-citation-data
+# - icon: github
+#   icon_pack: fab
+#   name: code
+#   url: https://github.com/apreshill/bakeoff
+# location: Sydney, Australia
+show_post_time: false
+subtitle: https://doi.org/10.1162/qss_c_00138
+
+title: A Tipping Point for Open Citation Data
+---
